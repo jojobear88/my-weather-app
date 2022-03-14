@@ -1,0 +1,70 @@
+.inactive {
+    color: #888888;
+}
+
+.weather-temp {
+    font-family: Roboto;
+    font-size: 44px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 52px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.weather-symbol {
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.weather-icon {
+    width: 100px;
+}
+
+.weather-sm-icon {
+    width: 70px;
+}
+
+.history-col {
+    width: 12.5% !important;
+    border: 1px solid rgba(0,0,0,.125);
+}
+
+.history-col.active {
+    background-color: #F7F7F7;
+}
+
+.history-date {
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.history-temp-max {
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.history-temp-min {
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: center;
+}
